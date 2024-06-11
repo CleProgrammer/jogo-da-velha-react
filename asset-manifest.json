@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website-supermarket/static/css/main.195f224f.css",
+    "main.js": "/website-supermarket/static/js/main.bb19a68d.js",
+    "static/js/787.24e3b24a.chunk.js": "/website-supermarket/static/js/787.24e3b24a.chunk.js",
+    "static/media/Playeremoji.png": "/website-supermarket/static/media/Playeremoji.736e412287fb0ae4fac3.png",
+    "static/media/Botemoji.png": "/website-supermarket/static/media/Botemoji.f97d07b6d02d1aad3843.png",
+    "index.html": "/website-supermarket/index.html",
+    "main.195f224f.css.map": "/website-supermarket/static/css/main.195f224f.css.map",
+    "main.bb19a68d.js.map": "/website-supermarket/static/js/main.bb19a68d.js.map",
+    "787.24e3b24a.chunk.js.map": "/website-supermarket/static/js/787.24e3b24a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.195f224f.css",
+    "static/js/main.bb19a68d.js"
+  ]
+}
