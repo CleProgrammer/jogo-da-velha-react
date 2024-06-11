@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jogo-da-velha-react/static/css/main.195f224f.css",
+    "main.css": "/jogo-da-velha-react/static/css/main.0578f803.css",
     "main.js": "/jogo-da-velha-react/static/js/main.df0d236e.js",
     "static/js/787.24e3b24a.chunk.js": "/jogo-da-velha-react/static/js/787.24e3b24a.chunk.js",
     "static/media/Playeremoji.png": "/jogo-da-velha-react/static/media/Playeremoji.736e412287fb0ae4fac3.png",
     "static/media/Botemoji.png": "/jogo-da-velha-react/static/media/Botemoji.f97d07b6d02d1aad3843.png",
     "index.html": "/jogo-da-velha-react/index.html",
-    "main.195f224f.css.map": "/jogo-da-velha-react/static/css/main.195f224f.css.map",
+    "main.0578f803.css.map": "/jogo-da-velha-react/static/css/main.0578f803.css.map",
     "main.df0d236e.js.map": "/jogo-da-velha-react/static/js/main.df0d236e.js.map",
     "787.24e3b24a.chunk.js.map": "/jogo-da-velha-react/static/js/787.24e3b24a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.195f224f.css",
+    "static/css/main.0578f803.css",
     "static/js/main.df0d236e.js"
   ]
 }
